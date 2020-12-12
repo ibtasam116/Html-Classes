@@ -1,0 +1,211 @@
+/*
+    Lecture Link : https://youtu.be/fKbRqj30waQ?list=PLcnuXGrBAu2iRf8NqkRaLu9ulztzPk6-9
+*/
+/*
+    Lecture Link : https://youtu.be/biNpxyZ4DvE?list=PLcnuXGrBAu2iRf8NqkRaLu9ulztzPk6-9
+*/
+/*
+    Lecture Link : https://youtu.be/U7OXoetAbbM?list=PLcnuXGrBAu2iRf8NqkRaLu9ulztzPk6-9
+*/
+/*
+    Lecture Link : https://youtu.be/pl8z1325xnE?list=PLcnuXGrBAu2iRf8NqkRaLu9ulztzPk6-9
+*/
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#topbar{
+    width: 1280px;
+    margin: 0 auto;
+    height: 40px;    
+}
+
+#topbar-bbclogo{
+    height: 40px;
+    margin-top: 5px;
+    margin-right: 4px;
+    float: left;
+}
+
+.topbar-section-border{
+    float: left;
+    border-left: 1px grey solid;
+    height: 107%;
+}
+
+#topbar-sign-logo{
+    width: 25px;
+    height: 20px;
+    margin-left: 8px;
+    margin-top: 13px;
+    margin-right: 15px;
+    float: left;
+}
+
+#sign-in-text{
+    font-weight: bold;
+    padding-right: 100px;
+    position: relative;
+    top: 14px;
+    float: left;
+}
+
+.main-heading{
+    position: relative;
+    top: 13px;
+    left: 16px;
+    padding-right: 40px;
+    font-weight: bold;
+    font-size: 90%;
+}
+
+#more-arrow{
+    float: left;
+    margin-top: 13px;
+    margin-left: 63px;
+}
+
+#more{
+    position: relative;
+    left: 16px;
+    top: 16px;
+    font-size: 85%;
+    font-weight: bold;
+    float: left;
+}
+
+#search{
+    border: 0px;
+    margin-top: 14px;
+    margin-left: 8px;
+    background-color: #E4E4E4;
+
+}
+
+#searchbar{
+    margin-top: 10px;
+    width: 15px;
+    height: 17px;
+    position: absolute;
+    top: 7px;
+}
+
+.clear{
+    clear: both;
+}
+
+#bigerbar{
+    width: 100%;
+    height: 60px;
+    background-color: #BB1919;
+    float: left;
+}
+
+#innerbar{
+    width: 1280px;
+    margin:0 auto;
+    height: 60px;
+}
+
+#bignews{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, freesans, sans-serif;;
+    color: white;
+    font-weight: normal;
+    padding-top: 5px;
+    font-size: 43px;
+}
+
+#second-red-container{
+    width:100%;
+	height:30px;
+	background-color:#BB1919;
+	float:left;
+}
+
+#second-red-menu{
+    width:1280px;
+	margin:0 auto;				
+	height:20px;
+}
+.red-menu{
+    float: left;
+    font-size: 15px;
+    font-weight: normal;
+    font-family: Helvetica, Arial, freesans, sans-serif;
+    color: white;
+    border-right:1px solid #BB4545;
+    padding-right:10px;
+	padding-left:10px;
+    text-decoration:none;
+}
+
+#down-more-arrow{
+    width: 13px;
+    height: 18px;
+    position: relative;
+    left: 3px;
+}
+
+#page-container{
+    width: 1280px;
+    margin:0 auto;				
+}
+
+#technology{
+    font-family: Helvetica, Arial, freesans, sans-serif;
+    font-size: 25px;
+    border-bottom: 2px solid #a91717;
+    width: 135px;
+    margin-top: 10px;
+}
+h1 a{
+    text-decoration:none;
+    color:#1D1D1B;
+    }
+    
+h1 a:hover{
+    color:#1167a8;
+}
+
+#article-summary{
+    width:250px;
+    color:#5A5A5A;
+    float:left;
+}
+
+.clock{
+    width:15px;
+    height:15px;
+}
+#article-hr{
+width:55px;
+color :#BB1919;
+}
+
+#play-button{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 5px;
+}
+#article-link{
+    text-decoration:none;
+    color:#1D1D1B;
+}
+#article-link:hover{
+    color:#1167a8;
+}
+#article-image{
+    width: 480px;
+    margin-left: 20px;
+}
+
+#article-container{
+    float:left;
+width:770px;
+border-right: 1px solid #CCCCCC;
+padding-right: 2px;
+   }

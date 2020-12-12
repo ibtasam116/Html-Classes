@@ -1,0 +1,65 @@
+/*
+    Lecture Link : https://youtu.be/woSVrYZchl8?list=PLcnuXGrBAu2iRf8NqkRaLu9ulztzPk6-9
+*/
+
+/*
+    ID:
+*/
+#one{
+    background-color: red;
+}
+
+#two{
+    background-color: green;
+    
+}
+
+#three{
+    background-color: blue;
+}
+
+/*
+    Class:
+*/
+/*border: solid, dashed, double, dotted*/
+/*border: link==: https://www.w3schools.com/cssref/playit.asp?filename=playcss_border-style&preval=none*/
+.common{
+    width: 300px;
+    height: 300px;
+    border: 10px;
+    border-color: orange;
+    border-style: groove;
+    border-radius: 40px;
+}
+
+/*
+    Font Styling: 
+*/
+/*Font links==: https://www.w3schools.com/cssref/pr_font_font-family.asp
+
+Web Safe Fonts links==: https://www.w3schools.com/cssref/css_websafe_fonts.asp
+*/
+p{
+    font-size: 200%;
+    font-family:verdana, Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: wavy;
+    padding: 10;
+}
+a{
+    text-decoration: none;
+    color: rgb(66, 29, 2);
+    position: relative;
+    top: -13%;
+    left: 75px;
+    font-size: 50px;
+}
+/*
+    Pseudo Selector: Use when we move mouse on text then text underline.
+
+    Pseudo use as: a:hover{}
+*/
+a:hover{
+    text-decoration: underline;
+}

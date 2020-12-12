@@ -1,0 +1,46 @@
+/*
+    Lecture Link : https://youtu.be/_tLmFwobqQE?list=PLcnuXGrBAu2iRf8NqkRaLu9ulztzPk6-9
+*/
+
+/*
+Class:
+*/
+.ibtasam{
+    background-color: orange;
+    width: 17%;
+    float: left;
+}
+
+.umair{
+    background-color: skyblue;
+    width: 16%;
+    float: left;
+}
+
+/*
+ID:
+*/
+#ayman{
+    background-color: lightgreen;
+    width: 14%;
+    float: right;
+}
+
+#eman{
+    background-color: lightpink;
+    width: 13%;
+    float: right;
+}
+
+#ayan{
+    background-color: yellowgreen;
+    width: 15%;
+    float: left;
+    clear: both;
+}
+
+#eshal{
+    background-color: turquoise;
+    width: 14%;
+    float: right; 
+}

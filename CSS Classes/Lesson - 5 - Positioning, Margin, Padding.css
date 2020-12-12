@@ -1,0 +1,57 @@
+/*
+    Lecture Link : https://youtu.be/Xcx6F0jPlhU?list=PLcnuXGrBAu2iRf8NqkRaLu9ulztzPk6-9
+*/
+
+/*
+    Class:
+*/
+
+/*
+    Opacity.
+*/
+.first-section{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 150px;
+    opacity: 0.3;
+}
+
+.second-section{
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+}
+
+/*
+    ID:
+*/
+
+/*
+Margin
+*/
+#third-section{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+
+    padding: 20px;
+
+}
+
+#fourth-section{
+    background-color: indigo;
+    width: 400px;
+    height: 200px;
+    margin: 50px 500px;
+}
+
+/*
+    Body CSS:
+*/
+body{
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,40 @@
+/*
+    Lecture Link : https://youtu.be/JCFQ07szUak?list=PLcnuXGrBAu2iRf8NqkRaLu9ulztzPk6-9
+*/
+
+.First-Section{
+    background-color: lawngreen;
+    text-align: center;
+    width: 100%;
+    font-size: 30px;
+    float: left;
+}
+
+.Second-Section{
+    background-color: purple;
+    text-align: center;
+    width: 50%;
+    font-size: 30px;
+    float: left;
+}
+
+.Third-section{
+    background-color: rgb(255, 167, 2);
+    text-align: center;
+    width: 50%;
+    font-size: 30px;
+    float: right;
+}
+
+#fourth-section{
+    color: green;
+    font-size: 30px;
+    float: left;
+}
+
+#Fifth-section{
+    color: orangered;
+    font-size: 30px;
+    float: right;
+    
+}
